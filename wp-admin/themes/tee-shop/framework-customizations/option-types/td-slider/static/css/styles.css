@@ -1,0 +1,105 @@
+.fw-option-type-td-slider.short-slider {
+	max-width: 280px;
+}
+/* Ion.RangeSlider, Nice Skin
+// css version 2.0.3
+// © Denis Ineshin, 2014    https://github.com/IonDen
+// ===================================================================================================================*/
+
+/* =====================================================================================================================
+// Skin details */
+
+.fw-option-type-td-slider .irs-line-mid,
+.fw-option-type-td-slider .irs-line-left,
+.fw-option-type-td-slider .irs-line-right,
+.fw-option-type-td-slider .irs-bar,
+.fw-option-type-td-slider .irs-bar-edge,
+.fw-option-type-td-slider .irs-slider {
+	background: url(../img/sprite-skin-nice.png) repeat-x;
+}
+
+.fw-option-type-td-slider .irs {
+	height: 40px;
+}
+.fw-option-type-td-slider .irs-with-grid {
+	height: 60px;
+}
+.fw-option-type-td-slider .irs-line {
+	height: 8px; top: 25px;
+}
+.fw-option-type-td-slider .irs-line-left {
+	height: 8px;
+	background-position: 0 -30px;
+}
+.fw-option-type-td-slider .irs-line-mid {
+	height: 8px;
+	background-position: 0 0;
+}
+.fw-option-type-td-slider .irs-line-right {
+	height: 8px;
+	background-position: 100% -30px;
+}
+
+.fw-option-type-td-slider .irs-bar {
+	height: 8px; top: 25px;
+	background-position: 0 -60px;
+}
+.fw-option-type-td-slider .irs-bar-edge {
+	top: 25px;
+	height: 8px; width: 11px;
+	background-position: 0 -90px;
+}
+
+.fw-option-type-td-slider .irs-shadow {
+	height: 1px; top: 34px;
+	background: #000;
+	opacity: 0.15;
+}
+.lt-ie9 .fw-option-type-td-slider .irs-shadow {
+	filter: alpha(opacity=15);
+}
+
+.fw-option-type-td-slider .irs-slider {
+	width: 22px; height: 22px;
+	top: 17px;
+	background-position: 0 -120px;
+}
+.fw-option-type-td-slider .irs-slider.state_hover, .fw-option-type-td-slider .irs-slider:hover {
+	background-position: 0 -150px;
+}
+
+.fw-option-type-td-slider .irs-min, .fw-option-type-td-slider .irs-max {
+	color: #999;
+	font-size: 10px; line-height: 1.333;
+	text-shadow: none;
+	top: 0; padding: 1px 3px;
+	background: rgba(0,0,0,0.1);
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.lt-ie9 .fw-option-type-td-slider .irs-min, .lt-ie9 .fw-option-type-td-slider .irs-max {
+	background: #ccc;
+}
+
+.fw-option-type-td-slider .irs-from, .fw-option-type-td-slider .irs-to, .fw-option-type-td-slider .irs-single {
+	color: #fff;
+	font-size: 10px; line-height: 1.333;
+	text-shadow: none;
+	padding: 1px 5px;
+	background: rgba(0,0,0,0.3);
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+.lt-ie9 .fw-option-type-td-slider .irs-from, .lt-ie9 .fw-option-type-td-slider .irs-to, .lt-ie9 .fw-option-type-td-slider .irs-single {
+	background: #999;
+}
+
+.fw-option-type-td-slider .irs-grid-pol {
+	background: #99a4ac;
+}
+.fw-option-type-td-slider .irs-grid-text {
+	color: #99a4ac;
+}
+
+.fw-option-type-td-slider .irs-disabled {
+}

@@ -1,0 +1,30 @@
+Image used in the screen shot is Public domain, found here
+http://pixabay.com/en/san-jose-california-university-92464/
+
+-Genericons Font
+--By Automattic http://genericons.com/
+--Licensed under GPL
+
+-Theme based on code from Twenty Twelve theme
+--By WordPress.org http://wordpress.org/themes/twentytwelve
+--Licensed under GPL
+
+-Superfish Menu
+--By Joel Birch http://users.tpg.com.au/j_birch/plugins/superfish/faq/
+--Dual licensed under the MIT and GPL licenses
+
+-jQuery Easing
+--By George McGinley Smith http://gsgd.co.uk/sandbox/jquery/easing/
+--Licensed under BSD
+
+-jQuery Mobile
+--By jQuery Foundation http://jquerymobile.com/
+--Licensed under MIT
+
+-Camera Slideshow
+--By Manuel Masia - www.pixedelic.com
+--Licensed under MIT
+
+-Reaktion.js
+--By Ryan Brown http://ryantbrown.io/
+--Licensed under MIT

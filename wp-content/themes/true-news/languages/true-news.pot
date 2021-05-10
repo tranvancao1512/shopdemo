@@ -1,0 +1,1393 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: True News\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-26 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: inc/custom-functions.php:674 inc/custom-functions.php:679
+#: inc/custom-functions.php:691 inc/custom-functions.php:696
+msgid " Ago"
+msgstr ""
+
+#: inc/read-later.php:40
+msgid " is added to your Read Later List."
+msgstr ""
+
+#: inc/read-later.php:49
+msgid " is removed from your Read Later List."
+msgstr ""
+
+#: comments.php:55
+msgid " thoughts on"
+msgstr ""
+
+#: inc/custom-functions.php:24
+msgid "% Comments"
+msgstr ""
+
+#: inc/custom-functions.php:578
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/custom-functions.php:54
+msgid ", "
+msgstr ""
+
+#: inc/custom-functions.php:608
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:628
+msgid "-- Select Page --"
+msgstr ""
+
+#: inc/custom-functions.php:24
+msgid "1 Comment"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:33
+msgid "Add New Section"
+msgstr ""
+
+#: inc/widgets/widgets.php:74
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:37
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:50
+msgid "Advanced Preloader"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:31
+#, php-format
+msgid "Advanced: Requires %1$sBreadcrumb NavXT%2$s plugin."
+msgstr ""
+
+#: inc/customizer/customizer.php:258
+msgid "Advertise Block"
+msgstr ""
+
+#: components/sections/true-news-advertise.php:16
+#: inc/customizer/home-content/home-content.php:217
+msgid "Advertise Image"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:223
+msgid "Advertise Image Link"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:228
+msgid "Advertise Script"
+msgstr ""
+
+#: inc/custom-functions.php:489
+msgid "Advertisement Block"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:60
+msgid "Affix Bar Logo"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:37
+msgid "Ajax Auto Load"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:36
+msgid "Ajax Load More Button"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:97
+msgid "Ajax Load Next 3 Posts Contents"
+msgstr ""
+
+#: inc/widgets/recent-post.php:57
+msgid "All Categories"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:49
+msgid "Apply Default Formate"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:50
+msgid "Apply Time Age Formate"
+msgstr ""
+
+#: inc/customizer/theme-option/sidebar-layout.php:30
+msgid "Archive Sidebar Layout"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:312
+msgid "Archives"
+msgstr ""
+
+#: inc/widgets/author.php:61
+msgid "Author Image:"
+msgstr ""
+
+#: inc/header.php:190
+msgid "Author: "
+msgstr ""
+
+#: inc/customizer/customizer.php:129
+msgid "Banner Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:113
+msgid "Banner Text"
+msgstr ""
+
+#: inc/customizer/customizer.php:150
+msgid "Banner Text Align"
+msgstr ""
+
+#: inc/customizer/customizer.php:248
+msgid "Block 1"
+msgstr ""
+
+#: inc/recommended-plugins.php:49
+msgid "Booster Extension"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:30
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:13
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/core/default.php:25
+msgid "Breaking News"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:308
+msgid "Browse:"
+msgstr ""
+
+#: inc/custom-functions.php:543
+msgid "Button Click Ajax Load"
+msgstr ""
+
+#: footer.php:123
+msgid "By "
+msgstr ""
+
+#: inc/customizer/theme-option/ticker-news.php:68
+msgid "Category for Ticker News"
+msgstr ""
+
+#. %s: search query.
+#: inc/header.php:182
+msgid "Category: "
+msgstr ""
+
+#: inc/customizer/customizer.php:260 inc/widgets/widget-base-class.php:250
+msgid "Choose Image"
+msgstr ""
+
+#: inc/footer.php:110 inc/customizer/core/control.php:405
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/core/default.php:46
+msgid "Comment"
+msgstr ""
+
+#: comments.php:62 comments.php:84
+msgid "Comment navigation"
+msgstr ""
+
+#. %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:318
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:78
+msgid "Comment Toggle Button Label"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:106 inc/widgets/tab-posts.php:113
+#: inc/widgets/tab-posts.php:197
+msgid "Comments"
+msgstr ""
+
+#: comments.php:101
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:110
+msgid "Comments Title:"
+msgstr ""
+
+#: inc/custom-functions.php:505 inc/customizer/core/sanitize.php:194
+#: inc/customizer/home-content/home-content.php:154
+msgid "Content & Right Sidebar"
+msgstr ""
+
+#: inc/custom-functions.php:508 inc/customizer/core/sanitize.php:197
+#: inc/customizer/home-content/home-content.php:157
+msgid "Content, Left Sidebar & Right Sidebar"
+msgstr ""
+
+#. %s: Name of current post.
+#: inc/ajax.php:230 components/post/content.php:131
+#: components/post/content.php:181
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:119
+msgid "Copyright "
+msgstr ""
+
+#: inc/customizer/core/default.php:188
+msgid "Copyright All rights reserved"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:834
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/custom-functions.php:541
+msgid "Default (Older / Newer Post)"
+msgstr ""
+
+#: inc/widgets/author.php:56
+msgid "Description:"
+msgstr ""
+
+#: inc/metabox.php:99 inc/customizer/theme-option/single.php:97
+msgid "Disable Navigation"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:35
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:97
+msgid "Dismiss Preloader For 24 Hours"
+msgstr ""
+
+#: inc/widgets/author.php:37
+msgid "Displays authors details in post."
+msgstr ""
+
+#: inc/widgets/category.php:37
+msgid "Displays categories and posts."
+msgstr ""
+
+#: inc/widgets/recent-post.php:45
+msgid ""
+"Displays post form selected category specific for popular post in sidebars."
+msgstr ""
+
+#: inc/widgets/social-link.php:37
+msgid "Displays Social share."
+msgstr ""
+
+#: inc/widgets/social-link.php:127
+msgid "Dribbble URL:"
+msgstr ""
+
+#. %s: Name of current post
+#: components/post/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/customizer/core/default.php:96
+msgid "Editor's Pick"
+msgstr ""
+
+#: inc/customizer/core/default.php:139
+msgid "Editors Pick"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:212
+msgid "Enable Arrows"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:202
+msgid "Enable Autoplay"
+msgstr ""
+
+#: inc/widgets/category.php:55
+msgid "Enable Category Description:"
+msgstr ""
+
+#: inc/metabox.php:89 inc/customizer/theme-option/single.php:62
+msgid "Enable Collapse on Comment Box"
+msgstr ""
+
+#: inc/widgets/recent-post.php:60
+msgid "Enable Counter:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:63
+msgid "Enable Description:"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:207
+msgid "Enable Dots"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:118
+msgid "Enable Lazy Load"
+msgstr ""
+
+#: inc/customizer/theme-option/ticker-news.php:53
+msgid "Enable Meta Data on Ticker News"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:81
+msgid "Enable Only On Home Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:183
+#: inc/customizer/home-content/home-content.php:165
+msgid "Enable Popular Tab"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:29
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:75
+msgid "Enable Randomize Icon"
+msgstr ""
+
+#: inc/customizer/theme-option/read-later.php:30
+#: inc/customizer/theme-option/read-later.php:64
+msgid "Enable Read Later"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:30
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:83
+msgid "Enable Scroll to Top Button"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:124
+msgid "Enable Search Icon"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:38
+msgid "Enable Section"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:68
+msgid "Enable Sticky Carousal Posts"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:116
+msgid "Enable Sticky Carousal Posts Slider Arrows"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:150
+msgid "Enable Sticky Carousal Posts Slider Autoplay"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:133
+msgid "Enable Sticky Carousal Posts Slider Dots"
+msgstr ""
+
+#: inc/customizer/theme-option/ticker-news.php:21
+msgid "Enable Ticker News"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:91
+msgid "Enable Trending Icon"
+msgstr ""
+
+#: inc/customizer/customizer.php:198
+#: inc/customizer/home-content/home-content.php:171
+msgid "Enable Trending Tab"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:80
+msgid "Excerpt Length:"
+msgstr ""
+
+#: inc/widgets/author.php:65 inc/widgets/social-link.php:47
+msgid "Facebook URL:"
+msgstr ""
+
+#: inc/customizer/core/default.php:97
+msgid "Featured Editor's Pick"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:52
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: functions.php:52
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:13
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/widgets/widgets.php:72
+msgid "Footer Widget "
+msgstr ""
+
+#: inc/widgets/widgets.php:70
+msgid "Four"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:37
+msgid "Four Column"
+msgstr ""
+
+#: inc/widgets/social-link.php:122
+msgid "FourSquare URL:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:75
+msgid "Full"
+msgstr ""
+
+#: inc/metabox.php:49 inc/customizer/theme-option/general.php:12
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:57
+msgid "General Text Color"
+msgstr ""
+
+#: inc/widgets/social-link.php:117
+msgid "Github URL:"
+msgstr ""
+
+#: inc/metabox.php:98
+msgid "Global Layout"
+msgstr ""
+
+#: inc/metabox.php:70 inc/customizer/core/sanitize.php:193
+#: inc/customizer/home-content/home-content.php:153
+msgid "Global Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:44
+msgid "Header Alternate Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:43
+msgid "Header Default Layout"
+msgstr ""
+
+#: inc/custom-functions.php:364
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:39
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:22
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Heading Text Color"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:187
+msgid "Hide Author Image"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:192
+msgid "Hide Author Name"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:64
+msgid "Hide Post Author Image"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:79
+msgid "Hide Post Author Name"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:182
+#: inc/customizer/theme-option/general.php:29
+msgid "Hide Post Categories"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:197
+#: inc/customizer/theme-option/general.php:94
+msgid "Hide Post Date"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:177
+msgid "Hide Slider Overlay"
+msgstr ""
+
+#: functions.php:251 assets/libraries/breadcrumbs/breadcrumbs.php:310
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page Template"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:16
+msgid "Homepage Content"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themeinwp.com/theme/true-news/"
+msgstr ""
+
+#: inc/custom-functions.php:544
+msgid "Infinite Scroll Ajax Load"
+msgstr ""
+
+#: inc/widgets/author.php:80 inc/widgets/social-link.php:62
+msgid "Instagram URL:"
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/true-news-read-later-posts.php:88
+msgid "It seems there is not any post added into Read Later list."
+msgstr ""
+
+#: components/post/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/core/default.php:31
+msgid "Just In"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:74
+msgid "Large"
+msgstr ""
+
+#: index.php:45 components/sections/true-news-latest-posts.php:41
+msgid "Latest"
+msgstr ""
+
+#: inc/customizer/customizer.php:169
+msgid "Latest Posts Section title"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:101
+msgid "Lazy Load Settings"
+msgstr ""
+
+#: inc/custom-functions.php:24
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:66
+msgid "Left Section Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:61
+msgid "Left Section Title"
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/custom-functions.php:506 inc/customizer/core/sanitize.php:195
+#: inc/customizer/home-content/home-content.php:155
+msgid "Left Sidebar & Content"
+msgstr ""
+
+#: inc/custom-functions.php:507 inc/customizer/core/sanitize.php:196
+#: inc/customizer/home-content/home-content.php:156
+msgid "Left Sidebar, Content & Right Sidebar"
+msgstr ""
+
+#: inc/custom-functions.php:509 inc/customizer/core/sanitize.php:198
+#: inc/customizer/home-content/home-content.php:158
+msgid "Left Sidebar, Right Sidebar & Content"
+msgstr ""
+
+#: inc/customizer/customizer.php:99
+msgid "Link Color"
+msgstr ""
+
+#: inc/widgets/author.php:75 inc/widgets/social-link.php:57
+msgid "Linkedin URL:"
+msgstr ""
+
+#: functions.php:164 functions.php:201 inc/pagination.php:34
+#: components/sections/true-news-recommended.php:77
+msgid "Load More Posts"
+msgstr ""
+
+#: inc/metabox.php:101
+msgid "Load Next 3 Posts Contents"
+msgstr ""
+
+#: functions.php:166 functions.php:203
+msgid "Loading..."
+msgstr ""
+
+#: inc/footer.php:130
+msgid "Main Menu"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:73
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:99
+msgid "Mid Section Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:94
+msgid "Mid Section Title"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:320
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:833
+#: assets/libraries/breadcrumbs/breadcrumbs.php:889
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/widgets/author.php:51
+msgid "Name:"
+msgstr ""
+
+#: inc/metabox.php:95
+msgid "Navigation Type"
+msgstr ""
+
+#: inc/customizer/customizer.php:259
+#: inc/customizer/home-content/home-content.php:32
+msgid "New Section"
+msgstr ""
+
+#: comments.php:66 comments.php:88
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/pagination.php:47
+msgid "Newer posts"
+msgstr ""
+
+#: inc/header.php:205
+msgid "News Flash: "
+msgstr ""
+
+#: inc/metabox.php:100 inc/customizer/theme-option/single.php:97
+msgid "Next Previous Navigation"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:34
+msgid "Next/Previous Method"
+msgstr ""
+
+#: inc/customizer/core/control.php:378
+msgid "No image selected"
+msgstr ""
+
+#: functions.php:165 functions.php:202 inc/pagination.php:35
+msgid "No More Posts"
+msgstr ""
+
+#: inc/custom-functions.php:510 inc/customizer/core/sanitize.php:199
+#: inc/customizer/home-content/home-content.php:159
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:116
+msgid "No. of Comments:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:55 inc/widgets/tab-posts.php:98
+msgid "No. of Posts:"
+msgstr ""
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/ajax.php:484
+msgid "Nothing Found."
+msgstr ""
+
+#: inc/widgets/recent-post.php:65
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:81
+msgid "Number of words"
+msgstr ""
+
+#: inc/custom-functions.php:542
+msgid "Numeric"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:35
+msgid "Numeric Method"
+msgstr ""
+
+#: inc/widgets/widgets.php:37
+msgid "Off Canvas sidebar 1"
+msgstr ""
+
+#: inc/widgets/widgets.php:46
+msgid "Off Canvas sidebar 2"
+msgstr ""
+
+#: inc/widgets/widgets.php:56
+msgid "Off Canvas sidebar 3"
+msgstr ""
+
+#: comments.php:65 comments.php:87
+msgid "Older Comments"
+msgstr ""
+
+#: inc/pagination.php:46
+msgid "Older posts"
+msgstr ""
+
+#: inc/widgets/widgets.php:67
+msgid "One"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:34
+msgid "One Column"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. %s is the page number.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:316
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/custom-functions.php:1339 components/post/content-page.php:29
+#: components/post/content.php:160 components/post/content.php:210
+#: components/sections/true-news-latest-posts.php:130
+msgid "Pages:"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:30
+msgid "Pagination Method"
+msgstr ""
+
+#: inc/customizer/theme-option/pagination.php:13
+msgid "Pagination Settings"
+msgstr ""
+
+#: inc/widgets/social-link.php:67
+msgid "Pinterest URL:"
+msgstr ""
+
+#: template-parts/true-news-trending-posts.php:105
+msgid "Please Activate Booster Extension Plugin For trending posts."
+msgstr ""
+
+#: index.php:52 components/sections/true-news-latest-posts.php:48
+#: inc/widgets/tab-posts.php:45 inc/widgets/tab-posts.php:52
+#: inc/widgets/tab-posts.php:162
+msgid "Popular"
+msgstr ""
+
+#: inc/customizer/customizer.php:184
+#: inc/customizer/home-content/home-content.php:166
+msgid "Popular posts will be display on the basis of post comment."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:49
+msgid "Popular Title:"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:55
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:123
+msgid "Post Category Four"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:88
+msgid "Post Category One"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:117
+msgid "Post Category Three"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:111
+msgid "Post Category Two"
+msgstr ""
+
+#. %s: post date.
+#: inc/custom-functions.php:673 inc/custom-functions.php:691
+#: inc/custom-functions.php:713 inc/custom-functions.php:730
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/customizer/theme-option/general.php:45
+msgid "Posted Date Fromate"
+msgstr ""
+
+#: footer.php:124
+msgid "Powered by "
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:65
+msgid "Preloader Content Title"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:12
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:45
+msgid "Preloader Type"
+msgstr ""
+
+#: functions.php:51 inc/header.php:303
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/customizer/theme-option/read-later.php:45
+msgid "Read Later Posts Page"
+msgstr ""
+
+#: inc/customizer/theme-option/read-later.php:13
+msgid "Read Later Settings"
+msgstr ""
+
+#. Name of the template
+msgid "Read Later Template"
+msgstr ""
+
+#: components/sections/true-news-block-3.php:105
+msgid "Read More"
+msgstr ""
+
+#: inc/header.php:162
+msgid "Reading Now"
+msgstr ""
+
+#: components/post/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/tab-posts.php:88 inc/widgets/tab-posts.php:95
+#: inc/widgets/tab-posts.php:176
+msgid "Recent"
+msgstr ""
+
+#: inc/customizer/core/default.php:56 inc/customizer/core/default.php:108
+#: inc/customizer/core/default.php:117
+msgid "Recent News"
+msgstr ""
+
+#: inc/customizer/core/default.php:176
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:92
+msgid "Recent Title:"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:218
+msgid "Recommended Image Size is 970x250 PX."
+msgstr ""
+
+#: inc/customizer/core/default.php:80
+msgid "Recommended Posts"
+msgstr ""
+
+#: inc/widgets/social-link.php:72
+msgid "Reddit URL:"
+msgstr ""
+
+#: inc/customizer/core/default.php:42
+msgid "Related Post"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:46
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/core/control.php:384
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:261
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:145
+msgid "Right Section Post Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:140
+msgid "Right Section Title"
+msgstr ""
+
+#: inc/widgets/widgets.php:17
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/header.php:172
+msgid "Search Results for:"
+msgstr ""
+
+#. %s: search query.
+#: inc/custom-functions.php:1055
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:314
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/custom-functions.php:479
+msgid "Section Block 1"
+msgstr ""
+
+#: inc/custom-functions.php:480 inc/customizer/customizer.php:249
+msgid "Section Block 2"
+msgstr ""
+
+#: inc/custom-functions.php:481 inc/customizer/customizer.php:250
+msgid "Section Block 3"
+msgstr ""
+
+#: inc/custom-functions.php:482 inc/customizer/customizer.php:251
+msgid "Section Block 4"
+msgstr ""
+
+#: inc/custom-functions.php:483 inc/customizer/customizer.php:252
+msgid "Section Block 5"
+msgstr ""
+
+#: inc/custom-functions.php:485 inc/customizer/customizer.php:254
+msgid "Section Carousel Block"
+msgstr ""
+
+#: inc/customizer/customizer.php:257
+msgid "Section Latest Posts Block"
+msgstr ""
+
+#: inc/custom-functions.php:488
+msgid "Section Latests Posts Block"
+msgstr ""
+
+#: inc/custom-functions.php:487 inc/customizer/customizer.php:256
+msgid "Section Recommended Block"
+msgstr ""
+
+#: inc/custom-functions.php:484 inc/customizer/customizer.php:253
+msgid "Section Slider Block"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:49
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:83
+msgid "Section Title One"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:105
+msgid "Section Title Two"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:43
+msgid "Section Type"
+msgstr ""
+
+#: inc/custom-functions.php:486 inc/customizer/customizer.php:255
+msgid "Section Video Block"
+msgstr ""
+
+#: inc/customizer/customizer.php:261
+msgid "Select"
+msgstr ""
+
+#: inc/widgets/recent-post.php:55
+msgid "Select Category:"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:250 inc/customizer/core/control.php:385
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:68
+msgid "Select Image Size Featured Post:"
+msgstr ""
+
+#: inc/customizer/theme-option/read-later.php:46
+msgid "Selected page should be assigned into \"Read Later Posts\" template."
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:107
+msgid "Selected page should be assigned into \"Trending Posts Page\" template."
+msgstr ""
+
+#: inc/custom-functions.php:1196
+msgid "Show sub menu"
+msgstr ""
+
+#: inc/metabox.php:62 inc/customizer/home-content/home-content.php:151
+#: inc/customizer/theme-option/sidebar-layout.php:13
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/theme-option/breadcrumb.php:36
+msgid "Simple"
+msgstr ""
+
+#: inc/customizer/theme-option/preloder.php:49
+msgid "Simple Preloader"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:94
+msgid "Single Post Navigation Type"
+msgstr ""
+
+#: inc/customizer/theme-option/single.php:13
+msgid "Single Post Settings"
+msgstr ""
+
+#: inc/customizer/theme-option/sidebar-layout.php:47
+msgid "Single Post Sidebar Layout"
+msgstr ""
+
+#: inc/custom-functions.php:223
+msgid "Skip"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: inc/widgets/social-link.php:77
+msgid "Skype URL:"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:77
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:72
+msgid "Slider Title"
+msgstr ""
+
+#: inc/widgets/social-link.php:82
+msgid "Snapchat URL:"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: inc/footer.php:143
+msgid "Social profiles"
+msgstr ""
+
+#: components/post/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:98
+msgid "Sticky Carousal Post Category"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:41
+msgid "Tabbed widget."
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:13
+msgid "Theme Options"
+msgstr ""
+
+#: footer.php:123
+msgid "Theme: "
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeInWP"
+msgstr ""
+
+#: footer.php:123
+msgid "Themeinwp"
+msgstr ""
+
+#: footer.php:123
+msgid "Themeinwp. "
+msgstr ""
+
+#: inc/widgets/widgets.php:69
+msgid "Three"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:36
+msgid "Three Column"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:72
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/customizer/theme-option/ticker-news.php:37
+msgid "Ticker News Title"
+msgstr ""
+
+#: inc/widgets/author.php:42 inc/widgets/category.php:42
+#: inc/widgets/recent-post.php:50 inc/widgets/social-link.php:42
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/author.php:85
+msgid "TN: Author Widget"
+msgstr ""
+
+#: inc/widgets/category.php:60
+msgid "TN: Category Widget"
+msgstr ""
+
+#: inc/widgets/recent-post.php:74
+msgid "TN: Recent Post Widget"
+msgstr ""
+
+#: inc/widgets/social-link.php:137
+msgid "TN: Social Widget"
+msgstr ""
+
+#: inc/widgets/tab-posts.php:125
+msgid "TN: Tab Posts Widget"
+msgstr ""
+
+#: inc/widgets/category.php:47
+msgid "Top Categories:"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:30
+msgid "Top Footer Column Layout"
+msgstr ""
+
+#: functions.php:50 inc/footer.php:118
+msgid "Top Menu"
+msgstr ""
+
+#: index.php:60 components/sections/true-news-latest-posts.php:56
+msgid "Trending"
+msgstr ""
+
+#: inc/customizer/theme-option/header.php:106
+msgid "Trending Posts Page"
+msgstr ""
+
+#: inc/customizer/customizer.php:199
+#: inc/customizer/home-content/home-content.php:172
+msgid ""
+"Trending posts will be display on the basis of post views. Please install "
+"Booster Extension Plugin for post visit count."
+msgstr ""
+
+#. Name of the template
+msgid "Trending Template"
+msgstr ""
+
+#. Name of the theme
+msgid "True News"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"True News is a Modern, vibrant, fresh &amp; trendy WordPress Theme created "
+"specifically for blogging, online journal, magazine and news portal. If you "
+"are a blogger or news publisher and write articles, stories, world news, "
+"have a travel blog or entertainment blog – share your article or lifestyle "
+"story with True News WordPress Theme. It also works for viral blogs, "
+"personal travel blogs and fits perfectly with projects like entertainment "
+"blog, News portal, professional magazine, niche blogs etc. True News offers "
+"writers and bloggers a lot of handy functions (for their articles, stories, "
+"and news), like WordPress Live theme Customizer, several diverse blog "
+"layouts, extra fast page load, improved new widgets, and RTL support."
+msgstr ""
+
+#: inc/metabox.php:17 inc/metabox.php:25
+msgid "True News Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:214
+msgid "True News Pro"
+msgstr ""
+
+#: inc/widgets/social-link.php:87
+msgid "Tumblr URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:92
+msgid "Twitch URL:"
+msgstr ""
+
+#: inc/widgets/author.php:70 inc/widgets/social-link.php:52
+msgid "Twitter URL:"
+msgstr ""
+
+#: inc/widgets/widgets.php:68
+msgid "Two"
+msgstr ""
+
+#: inc/customizer/theme-option/footer.php:35
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/customizer.php:215
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/widgets/widget-base-class.php:250
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:134
+msgid "Vertical Slider Category"
+msgstr ""
+
+#: inc/customizer/home-content/home-content.php:129
+msgid "Vertical Slider Title"
+msgstr ""
+
+#: inc/customizer/core/default.php:151
+msgid "Videos"
+msgstr ""
+
+#: inc/widgets/social-link.php:102
+msgid "Vimeo URL:"
+msgstr ""
+
+#: inc/widgets/social-link.php:132
+msgid "VK URL:"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/libraries/breadcrumbs/breadcrumbs.php:322
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/widgets/social-link.php:107
+msgid "Whatsapp URL:"
+msgstr ""
+
+#: inc/widgets/author.php:47
+msgid "Widget Background Image:"
+msgstr ""
+
+#: footer.php:124
+msgid "WordPress"
+msgstr ""
+
+#: inc/widgets/social-link.php:112
+msgid "WordPress URL:"
+msgstr ""
+
+#: footer.php:124
+msgid "WordPress."
+msgstr ""
+
+#: assets/libraries/breadcrumbs/breadcrumbs.php:832
+#: assets/libraries/breadcrumbs/breadcrumbs.php:861
+#: assets/libraries/breadcrumbs/breadcrumbs.php:888
+#: assets/libraries/breadcrumbs/breadcrumbs.php:915
+#: assets/libraries/breadcrumbs/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/core/default.php:160
+msgid "You May Have Missed"
+msgstr ""
+
+#: inc/widgets/social-link.php:97
+msgid "Youtube URL:"
+msgstr ""

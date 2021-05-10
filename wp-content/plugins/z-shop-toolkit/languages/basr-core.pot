@@ -1,0 +1,2851 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-27 08:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/hooks.php:44 inc/hooks.php:70
+#: ajaxloadmore/templates/basr-portfolio/portfolio_grid.php:127
+#: ajaxloadmore/templates/basr-portfolio/portfolio_grid.php:133
+#: ajaxloadmore/templates/basr-portfolio/portfolio_listing.php:28
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_large.php:37
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_large.php:43
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_listing.php:117
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_listing.php:123
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_1.php:21
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_2.php:27
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_2.php:53
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_4.php:48
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_4.php:54
+msgid "View More"
+msgstr ""
+
+#: inc/hooks.php:96 inc/hooks.php:97
+msgid "ThemeOptions"
+msgstr ""
+
+#: welcome/welcome.php:115
+msgid "Moonlight"
+msgstr ""
+
+#: welcome/welcome.php:134
+msgid "Full Data"
+msgstr ""
+
+#: welcome/welcome.php:155
+msgid "Light version( linked image )"
+msgstr ""
+
+#: welcome/welcome.php:251
+msgid "Are you sure to uninstall this plugin?"
+msgstr ""
+
+#: welcome/welcome.php:253
+msgid "Demo installation is in progress. You should wait for it to finish."
+msgstr ""
+
+#: welcome/welcome.php:271 welcome/welcome.php:272
+msgid "Welcome"
+msgstr ""
+
+#: welcome/welcome.php:281
+msgid "Plugins Installation"
+msgstr ""
+
+#: welcome/welcome.php:282 welcome/welcome.php:766
+msgid "Plugins"
+msgstr ""
+
+#: welcome/welcome.php:289 welcome/welcome.php:290 welcome/welcome.php:769
+msgid "Support"
+msgstr ""
+
+#: welcome/welcome.php:305 welcome/welcome.php:306
+msgid "Theme Options"
+msgstr ""
+
+#. Name of the plugin
+#: welcome/welcome.php:338
+msgid "Moonlight Toolkit"
+msgstr ""
+
+#: welcome/welcome.php:346
+msgid "Unyson"
+msgstr ""
+
+#: welcome/welcome.php:355
+msgid "Revolution Slider"
+msgstr ""
+
+#: welcome/welcome.php:363
+msgid "Contact form 7"
+msgstr ""
+
+#: welcome/welcome.php:371
+msgid "Instagram feed"
+msgstr ""
+
+#: welcome/welcome.php:379
+msgid "Visual composer"
+msgstr ""
+
+#: welcome/welcome.php:437 welcome/welcome.php:476
+msgid ""
+"Failed to verify nonce. Please reload this page to renew your working "
+"session."
+msgstr ""
+
+#: welcome/welcome.php:441
+msgid "No plugin specified."
+msgstr ""
+
+#: welcome/welcome.php:480
+msgid "No demo ID specified."
+msgstr ""
+
+#: welcome/welcome.php:648 welcome/welcome.php:810
+msgid "Install"
+msgstr ""
+
+#: welcome/welcome.php:661
+msgid "Installing demo:"
+msgstr ""
+
+#: welcome/welcome.php:663
+msgid "This installation will make your website look the same as the demo."
+msgstr ""
+
+#: welcome/welcome.php:664
+msgid ""
+"With the help of our Oneclick Install, you can quickly duplicate your site "
+"as our demo. The demo content includes all posts, pages, widgets, theme "
+"options settings and menus. The process is seamless and just takes few "
+"minutes."
+msgstr ""
+
+#: welcome/welcome.php:666
+#, php-format
+msgid ""
+"Click the button bellow to start installing demo or <a href=\"%s\">do this "
+"later</a>."
+msgstr ""
+
+#: welcome/welcome.php:669
+msgid "Start"
+msgstr ""
+
+#: welcome/welcome.php:676
+msgid ""
+"Install plugins (<span class=\"js-current-plugin-index\">1</span>/<span "
+"class=\"js-total-plugin\"></span>)"
+msgstr ""
+
+#: welcome/welcome.php:679 welcome/welcome.php:694
+msgid "Done"
+msgstr ""
+
+#: welcome/welcome.php:683
+msgid "Installing plugin: "
+msgstr ""
+
+#: welcome/welcome.php:691
+msgid "Install Demo"
+msgstr ""
+
+#: welcome/welcome.php:705
+msgid "You're done!"
+msgstr ""
+
+#: welcome/welcome.php:710
+msgid "View your site"
+msgstr ""
+
+#: welcome/welcome.php:712
+msgid "or"
+msgstr ""
+
+#: welcome/welcome.php:714
+msgid "Back to Dashboard"
+msgstr ""
+
+#: welcome/welcome.php:721
+msgid "Error!"
+msgstr ""
+
+#: welcome/welcome.php:723
+msgid "Something went wrong while installing demo content."
+msgstr ""
+
+#: welcome/welcome.php:724
+msgid "Please try again!"
+msgstr ""
+
+#: welcome/welcome.php:726
+#, php-format
+msgid "Click button below to try again or <a href=\"%s\">do this later</a>."
+msgstr ""
+
+#: welcome/welcome.php:730
+msgid "Try again"
+msgstr ""
+
+#: welcome/welcome.php:763
+msgid "Demos"
+msgstr ""
+
+#: welcome/welcome.php:815
+msgid "Activate"
+msgstr ""
+
+#: welcome/welcome.php:822
+msgid "Uninstall"
+msgstr ""
+
+#: welcome/welcome.php:848
+msgid "Submit A Ticket"
+msgstr ""
+
+#: welcome/welcome.php:851
+msgid "Submit a ticket"
+msgstr ""
+
+#: welcome/welcome.php:854
+msgid "Documentation"
+msgstr ""
+
+#: welcome/welcome.php:858
+msgid "View documentation"
+msgstr ""
+
+#: welcome/welcome.php:908
+msgid ""
+"Click the download button bellow to download your system status and include "
+"it in ticket support to help us support you faster and better."
+msgstr ""
+
+#: welcome/welcome.php:909
+msgid ""
+"<a href=\"#\" class=\"button button-primary\" id=\"the1989-download-system-"
+"status\">Download</a>"
+msgstr ""
+
+#: widget/recent_post.php:19
+msgid " - Recent Post"
+msgstr ""
+
+#: widget/recent_post.php:96
+msgid "Recent Post"
+msgstr ""
+
+#: widget/recent_post.php:99
+msgid "Title:"
+msgstr ""
+
+#: widget/recent_post.php:103
+msgid "Limit:"
+msgstr ""
+
+#: widget/recent_post.php:107
+msgid "Order:"
+msgstr ""
+
+#: widget/recent_post.php:109
+msgid "DESC"
+msgstr ""
+
+#: widget/recent_post.php:110
+msgid "ASC"
+msgstr ""
+
+#: widget/recent_post.php:114
+msgid "Orderby:"
+msgstr ""
+
+#: widget/recent_post.php:116 shortcodes/shortcodes/common/heading.php:56
+#: shortcodes/shortcodes/common/icon_box.php:74
+#: shortcodes/shortcodes/common/page_nav_item.php:56
+#: shortcodes/shortcodes/common/service.php:62
+#: shortcodes/shortcodes/common/service_item.php:57
+#: shortcodes/shortcodes/common/social_info.php:44
+#: shortcodes/shortcodes/other/icon_line.php:45
+msgid "Title"
+msgstr ""
+
+#: widget/recent_post.php:117
+msgid "Date"
+msgstr ""
+
+#: widget/recent_post.php:118
+msgid "Random"
+msgstr ""
+
+#: widget/recent_post.php:122
+msgid "Display Thumbnail:"
+msgstr ""
+
+#: widget/recent_post.php:124 widget/recent_post.php:131
+#: extensions/basr-portfolio/settings-options.php:160
+#: extensions/basr-portfolio/settings-options.php:169
+#: extensions/basr-portfolio/includes/portfolio_listing.php:206
+#: extensions/basr-portfolio/includes/portfolio_listing.php:220
+#: shortcodes/shortcodes/common/blogs_listing.php:215
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:26
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:120
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:215
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:223
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:27
+msgid "Show"
+msgstr ""
+
+#: widget/recent_post.php:125 widget/recent_post.php:132
+#: extensions/basr-portfolio/settings-options.php:161
+#: extensions/basr-portfolio/settings-options.php:170
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:27
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:124
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:216
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:224
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:23
+msgid "Hide"
+msgstr ""
+
+#: widget/recent_post.php:129
+msgid "Display Date:"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:48
+#: extensions/basr-portfolio/manifest.php:7
+msgid "Portfolio"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:49
+msgid "Portfolios"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:57
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:33
+#: extensions/header-builder/class-fw-extension-header-builder.php:31
+msgid "Add New"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:58
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:137
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:34
+#: extensions/header-builder/class-fw-extension-header-builder.php:32
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:59
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:35
+#: extensions/header-builder/class-fw-extension-header-builder.php:33
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:67
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:76
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:133
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:70
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:102
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:178
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:67
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:96
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:71
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:89
+msgid "Edit"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:60
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:135
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:36
+#: extensions/header-builder/class-fw-extension-header-builder.php:34
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:61
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:37
+#: extensions/header-builder/class-fw-extension-header-builder.php:35
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:62
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:132
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:63
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:64
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:40
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:41
+#: extensions/header-builder/class-fw-extension-header-builder.php:37
+#: extensions/header-builder/class-fw-extension-header-builder.php:38
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:65
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:131
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:42
+#: extensions/header-builder/class-fw-extension-header-builder.php:39
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:66
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:43
+#: extensions/header-builder/class-fw-extension-header-builder.php:40
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:67
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:44
+#: extensions/header-builder/class-fw-extension-header-builder.php:41
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:70
+msgid "Create a portfolio item"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:123
+msgid "Category"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:124
+msgid "Categories"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:129
+#, php-format
+msgctxt "taxonomy general name"
+msgid "Portfolio %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:130
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "Portfolio %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:133
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:134
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:136
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: extensions/basr-portfolio/class-fw-extension-basr-portfolio.php:138
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: extensions/basr-portfolio/helpers.php:214
+#: shortcodes/shortcodes/common/member.php:94
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:43
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:50
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:154
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:24
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:31
+msgid "Description"
+msgstr ""
+
+#: extensions/basr-portfolio/helpers.php:225
+msgid "Share this: "
+msgstr ""
+
+#: extensions/basr-portfolio/helpers.php:295
+msgid "Client say"
+msgstr ""
+
+#: extensions/basr-portfolio/helpers.php:372
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:207
+msgid "Related Portfolio"
+msgstr ""
+
+#: extensions/basr-portfolio/hooks.php:12
+#: extensions/basr-portfolio/hooks.php:13
+msgid "Portfolio settings"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:6
+msgid "Portfolio Setting"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:13
+msgid "Portfolio General"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:18
+msgid "Post type slug"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:23
+msgid "Post category slug"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:32
+msgid "Portfolio Archive"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:39
+msgid "Full Width? "
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:42
+#: extensions/basr-portfolio/settings-options.php:90
+#: extensions/basr-portfolio/settings-options.php:104
+#: extensions/basr-portfolio/settings-options.php:203
+#: extensions/header-builder/class-fw-extension-header-builder.php:98
+#: extensions/header-builder/class-fw-extension-header-builder.php:111
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:59
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:30
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:52
+msgid "Yes"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:46
+#: extensions/basr-portfolio/settings-options.php:94
+#: extensions/basr-portfolio/settings-options.php:108
+#: extensions/basr-portfolio/settings-options.php:207
+#: extensions/header-builder/class-fw-extension-header-builder.php:102
+#: extensions/header-builder/class-fw-extension-header-builder.php:115
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:55
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:34
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:48
+msgid "No"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:52
+msgid "Archive portfolio Style"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:55
+#: extensions/basr-portfolio/includes/portfolio_listing.php:86
+msgid "Listing"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:56
+#: extensions/basr-portfolio/includes/portfolio_listing.php:87
+#: shortcodes/shortcodes/common/blogs_listing.php:180
+#: shortcodes/shortcodes/common/isotope.php:63
+msgid "Grid"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:57
+#: extensions/basr-portfolio/includes/portfolio_listing.php:88
+#: shortcodes/shortcodes/common/blogs_listing.php:183
+#: shortcodes/shortcodes/common/isotope.php:64
+msgid "Masonry"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:58
+msgid "Free style"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:59
+#: shortcodes/shortcodes/common/blogs_listing.php:184
+#: shortcodes/shortcodes/common/slick_slider.php:40
+msgid "Slider"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:64
+msgid "Archive hover style"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:67
+#: extensions/basr-portfolio/settings-options.php:148
+#: extensions/basr-portfolio/settings-options.php:192
+#: extensions/basr-portfolio/includes/portfolio_listing.php:134
+#: extensions/basr-portfolio/includes/portfolio_listing.php:154
+#: shortcodes/shortcodes/other/testimonial.php:39
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:9
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:10
+msgid "Style 1"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:68
+#: extensions/basr-portfolio/settings-options.php:149
+#: extensions/basr-portfolio/settings-options.php:193
+#: extensions/basr-portfolio/includes/portfolio_listing.php:135
+#: extensions/basr-portfolio/includes/portfolio_listing.php:155
+#: shortcodes/shortcodes/other/testimonial.php:40
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:10
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:11
+msgid "Style 2"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:69
+#: extensions/basr-portfolio/settings-options.php:150
+#: extensions/basr-portfolio/settings-options.php:194
+#: extensions/basr-portfolio/includes/portfolio_listing.php:136
+#: shortcodes/shortcodes/other/testimonial.php:41
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:11
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:12
+msgid "Style 3"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:74
+msgid "Archive columns"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:77
+msgid "2 Columns"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:78
+msgid "3 Columns"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:79
+msgid "4 Columns"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:80
+msgid "5 Columns"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:87
+msgid "No Padding ? "
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:101
+#: extensions/basr-portfolio/settings-options.php:200
+msgid "Disable border on hover ? "
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:114
+msgid "Posts to display"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:120
+msgid "Pagination style"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:123
+msgid "WP Pagination"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:124
+msgid "Pagination Ajax"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:125
+msgid "Infinite Scroll"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:126
+msgid "Loadmore Button"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:131
+msgid "Infinite stop After"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:140
+msgid "Portfolio Single"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:145
+msgid "Single portfolio Style"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:151
+#: extensions/basr-portfolio/includes/portfolio_listing.php:137
+#: extensions/basr-portfolio/includes/portfolio_listing.php:156
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:12
+msgid "Style 4"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:152
+#: extensions/basr-portfolio/includes/portfolio_listing.php:138
+#: extensions/basr-portfolio/includes/portfolio_listing.php:157
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:13
+msgid "Style 5"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:156
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:21
+msgid "Show Feature Image ?"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:166
+msgid "Show related portfolio ?"
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:184
+msgid "Limit related portfolio: "
+msgstr ""
+
+#: extensions/basr-portfolio/settings-options.php:189
+msgid "Hover style for related"
+msgstr ""
+
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:23
+msgid "Footer"
+msgstr ""
+
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:24
+msgid "Footers"
+msgstr ""
+
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:25
+#: extensions/footer-builder/manifest.php:7
+msgid "Footer Builder"
+msgstr ""
+
+#: extensions/footer-builder/class-fw-extension-footer-builder.php:47
+msgid "Create a footer item"
+msgstr ""
+
+#: extensions/footer-builder/helpers.php:8
+#: extensions/header-builder/helpers.php:8
+msgid "Please Choose"
+msgstr ""
+
+#: extensions/footer-builder/settings-options.php:7
+msgid "Default Footer"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:21
+msgid "Header"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:22
+msgid "Headers"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:23
+#: extensions/header-builder/manifest.php:7
+msgid "Header Builder"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:44
+msgid "Create a header"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:95
+msgid "Fixed header?"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:108
+msgid "Absolute header?"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:121
+msgid "Smart sticky?"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:124
+msgid "On"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:128
+msgid "Off"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:130
+msgid ""
+"Turn ON to enable sticky menu, it will always stay in your page when "
+"scrolling to top and disappear when scrolling down."
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:134
+msgid "Settings for header mobile in Theme Options"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:138
+msgid "Load Demo Header Template"
+msgstr ""
+
+#: extensions/header-builder/class-fw-extension-header-builder.php:143
+#: extensions/footer-builder/options/posts/footer_builder.php:25
+msgid "Select Demo template"
+msgstr ""
+
+#: extensions/header-builder/helpers.php:65
+msgid "View your shopping cart"
+msgstr ""
+
+#: extensions/header-builder/hooks.php:100
+#: extensions/header-builder/hooks.php:103
+msgid "Header updated."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:101
+msgid "Custom field updated."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:102
+msgid "Custom field deleted."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:104
+#, php-format
+msgid "Header restored to revision from %s"
+msgstr ""
+
+#: extensions/header-builder/hooks.php:105
+msgid "Header published."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:106
+msgid "Header saved."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:107
+msgid "Header submitted."
+msgstr ""
+
+#: extensions/header-builder/hooks.php:109
+#, php-format
+msgid "Header scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#. Publish box date format, see http://php.net/date
+#: extensions/header-builder/hooks.php:111
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: extensions/header-builder/hooks.php:113
+msgid "Header draft updated."
+msgstr ""
+
+#: extensions/header-builder/settings-options.php:7
+msgid "Default Header"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:20 shortcodes/include/fn.hooks.php:36
+#: shortcodes/include/fn.hooks.php:51
+msgid "Classic"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:21 shortcodes/include/fn.hooks.php:35
+#: shortcodes/include/fn.hooks.php:52
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:22 shortcodes/include/fn.hooks.php:37
+#: shortcodes/include/fn.hooks.php:53
+msgid "Flat"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:23 shortcodes/include/fn.hooks.php:38
+#: shortcodes/include/fn.hooks.php:54
+msgid "Outline"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:24 shortcodes/include/fn.hooks.php:55
+#: shortcodes/shortcodes/common/map.php:783
+msgid "basr-core"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:26 shortcodes/include/fn.hooks.php:31
+#: shortcodes/include/fn.hooks.php:57
+#: shortcodes/shortcodes/common/blogs_listing.php:176
+#: shortcodes/shortcodes/common/blogs_listing.php:190
+#: shortcodes/shortcodes/common/social_info.php:49
+#: shortcodes/shortcodes/other/social_sharing.php:37
+#: shortcodes/shortcodes/other/testimonial.php:36
+msgid "Style"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:27 shortcodes/include/fn.hooks.php:58
+msgid "Select tabs display style."
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:32
+msgid "Select button display style."
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:39
+msgid "3d"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:40
+#: shortcodes/shortcodes/common/heading.php:76
+#: shortcodes/shortcodes/common/map.php:671
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:41
+msgid "Outline custom"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:42
+msgid "Gradient"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:43
+msgid "Gradient Custom"
+msgstr ""
+
+#: shortcodes/include/fn.hooks.php:44
+msgid "Toolkit Outline"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:37
+msgid " SHORTCODES"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:43
+msgid "Classes"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:44
+msgid "(Optional) Enter a unique class name. Seperate by blank space."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:53
+msgid "Enable Animation"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:61
+#: shortcodes/shortcodes/other/animator.php:54
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:74
+#: shortcodes/shortcodes/other/animator.php:62
+msgid "Animation Delay"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:75
+#: shortcodes/shortcodes/other/animator.php:63
+msgid "Numeric value only, 1000 = 1second."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:167 shortcodes/include/fn.misc.php:177
+#: shortcodes/include/fn.misc.php:184 shortcodes/include/fn.misc.php:200
+#: shortcodes/include/fn.misc.php:207 shortcodes/include/fn.misc.php:215
+#: shortcodes/include/fn.misc.php:223 shortcodes/include/fn.misc.php:231
+#: shortcodes/shortcodes/common/icon_box.php:156
+#: shortcodes/shortcodes/other/icon_line.php:90
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:176
+#: shortcodes/shortcodes/other/icon_line.php:99
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:181
+#: shortcodes/shortcodes/common/social_info.php:86
+msgid "Icon color"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:183
+msgid "Select icon color."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:188
+msgid "Background shape"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:191
+#: shortcodes/shortcodes/common/heading.php:137
+#: shortcodes/shortcodes/common/map.php:778
+#: shortcodes/shortcodes/other/button.php:63
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:62
+msgid "None"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:192
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:193
+msgid "Square"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:194
+msgid "Rounded"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:195
+msgid "Outline Circle"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:196
+msgid "Outline Square"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:197
+msgid "Outline Rounded"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:199
+msgid "Select background shape and style for icon."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:204
+msgid "Custom background color"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:206
+msgid "Select custom icon background color."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:211
+msgid "Size"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:214
+msgid "Icon size in px. Just put the number here."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:219
+msgid "Icon padding"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:222
+msgid "Padding of icon in px. Just put the number here."
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:227
+msgid "Border Width"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:230
+msgid "Border width of Outline styles"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:263
+msgid "Font Family"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:270
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:277
+#: shortcodes/shortcodes/common/heading.php:102
+msgid "Font Weight"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:285
+msgid "Color"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:292
+msgid "Line Height"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:299
+#: shortcodes/shortcodes/common/heading.php:94
+msgid "Letter spacing"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:387
+msgid "Padding Top"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:394
+#: shortcodes/shortcodes/common/heading.php:126
+#: shortcodes/shortcodes/common/social_info.php:65
+#: shortcodes/shortcodes/other/button.php:83
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:18
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:24
+msgid "Right"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:401
+#: shortcodes/shortcodes/common/slick_slider.php:167
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/include/fn.misc.php:408
+#: shortcodes/shortcodes/common/background_icon.php:55
+#: shortcodes/shortcodes/common/heading.php:125
+#: shortcodes/shortcodes/common/social_info.php:64
+#: shortcodes/shortcodes/other/button.php:81
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:16
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:22
+msgid "Left"
+msgstr ""
+
+#: shortcodes/shortcodes/1st_example.php:40
+msgid "Hello World"
+msgstr ""
+
+#: shortcodes/shortcodes/1st_example.php:47
+#: extensions/basr-portfolio/includes/portfolio_listing.php:64
+#: shortcodes/shortcodes/common/background_icon.php:37
+#: shortcodes/shortcodes/common/blogs_listing.php:251
+#: shortcodes/shortcodes/common/empty_space.php:41
+#: shortcodes/shortcodes/common/heading.php:49
+#: shortcodes/shortcodes/common/icon_box.php:47
+#: shortcodes/shortcodes/common/isotope.php:51
+#: shortcodes/shortcodes/common/map.php:614
+#: shortcodes/shortcodes/common/member.php:49
+#: shortcodes/shortcodes/common/page_nav.php:50
+#: shortcodes/shortcodes/common/page_nav_item.php:48
+#: shortcodes/shortcodes/common/service.php:53
+#: shortcodes/shortcodes/common/service_item.php:48
+#: shortcodes/shortcodes/common/slick_item.php:48
+#: shortcodes/shortcodes/common/slick_slider.php:52
+#: shortcodes/shortcodes/common/social_info.php:37
+#: shortcodes/shortcodes/other/animator.php:46
+#: shortcodes/shortcodes/other/banner.php:20
+#: shortcodes/shortcodes/other/button.php:21
+#: shortcodes/shortcodes/other/icon_line.php:112
+#: shortcodes/shortcodes/other/icons_line.php:41
+#: shortcodes/shortcodes/other/lightbox_video.php:69
+#: shortcodes/shortcodes/other/social_sharing.php:49
+#: shortcodes/shortcodes/other/testimonial.php:46
+#: shortcodes/shortcodes/other/testimonial_item.php:68
+#: shortcodes/shortcodes/other/twitter_timeline.php:20
+msgid "ID"
+msgstr ""
+
+#: unyson-options/load-vc-template/class-fw-option-type-load-vc-template.php:83
+msgid "Create New Page and load template"
+msgstr ""
+
+#: unyson-options/load-vc-template/class-fw-option-type-load-vc-template.php:87
+msgid "Export data template"
+msgstr ""
+
+#: ajaxloadmore/templates/basr-portfolio/portfolio_grid.php:152
+#: ajaxloadmore/templates/basr-portfolio/portfolio_grid.php:175
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_listing.php:142
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_listing.php:165
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_4.php:73
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_4.php:96
+msgid ", "
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:56
+msgid "Portfolio listing"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:71
+msgid "Select category"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:73
+msgid "Input portfolio category to search"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:82
+msgid "Display type"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:89
+msgid "Free Style"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:90
+msgid "Slider 1"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:91
+msgid "Slider 2"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:92
+msgid "Slider 3"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:93
+msgid "Slider 4"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:98
+#: extensions/basr-portfolio/includes/portfolio_listing.php:115
+msgid "Columns"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:102
+#: shortcodes/shortcodes/common/blogs_listing.php:193
+msgid "2 columns"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:103
+#: extensions/basr-portfolio/includes/portfolio_listing.php:119
+#: shortcodes/shortcodes/common/blogs_listing.php:194
+msgid "3 columns"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:104
+#: extensions/basr-portfolio/includes/portfolio_listing.php:120
+msgid "4 columns"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:105
+#: extensions/basr-portfolio/includes/portfolio_listing.php:121
+msgid "5 columns"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:130
+#: extensions/basr-portfolio/includes/portfolio_listing.php:150
+msgid "Hover style"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:139
+#: extensions/basr-portfolio/includes/portfolio_listing.php:158
+msgid "Style 6"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:140
+#: extensions/basr-portfolio/includes/portfolio_listing.php:159
+msgid "Style 7"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:169
+#: extensions/basr-portfolio/includes/portfolio_listing.php:172
+msgid "No Border?"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:182
+msgid "Limit posts"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:189
+msgid "No padding?"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:192
+msgid "No Padding?"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:201
+msgid "Display filter"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:205
+#: extensions/basr-portfolio/includes/portfolio_listing.php:219
+#: shortcodes/shortcodes/common/blogs_listing.php:214
+msgid "hidden"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:216
+#: shortcodes/shortcodes/common/blogs_listing.php:211
+msgid "Display pagination"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:230
+#: shortcodes/shortcodes/common/blogs_listing.php:225
+msgid "Type of pagination"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:234
+#: shortcodes/shortcodes/common/blogs_listing.php:229
+msgid "Pagination number"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:235
+#: shortcodes/shortcodes/common/blogs_listing.php:230
+msgid "Infinite scroll"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:236
+#: shortcodes/shortcodes/common/blogs_listing.php:231
+msgid "Loadmore button"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing.php:245
+#: shortcodes/shortcodes/common/blogs_listing.php:240
+msgid "Times to stop infinite scroll"
+msgstr ""
+
+#: shortcodes/shortcodes/common/background_icon.php:30
+msgid "Background Icon"
+msgstr ""
+
+#: shortcodes/shortcodes/common/background_icon.php:44
+msgid "icon"
+msgstr ""
+
+#: shortcodes/shortcodes/common/background_icon.php:50
+msgid "Top"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:156
+msgid "Blogs listing"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:164
+msgid "Select Blog categories"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:166
+msgid "Input name to search"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:179
+msgid "Large"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:181
+msgid "Grid 2"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:182
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:195
+msgid "4 columns "
+msgstr ""
+
+#: shortcodes/shortcodes/common/blogs_listing.php:205
+msgid "Limit"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:34
+msgid "Empty space"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:48
+msgid "Height of unit on Large desktop"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:49
+#: shortcodes/shortcodes/common/empty_space.php:56
+#: shortcodes/shortcodes/common/empty_space.php:64
+#: shortcodes/shortcodes/common/empty_space.php:72
+#: shortcodes/shortcodes/common/empty_space.php:80
+#: shortcodes/shortcodes/common/empty_space.php:88
+#: shortcodes/shortcodes/common/empty_space.php:95
+#: shortcodes/shortcodes/common/empty_space.php:102
+#: shortcodes/shortcodes/common/heading.php:82
+#: shortcodes/shortcodes/common/icon_box.php:87
+#: shortcodes/shortcodes/common/icon_box.php:175
+#: shortcodes/shortcodes/common/map.php:677
+#: shortcodes/shortcodes/common/map.php:688
+msgid "Numeric value only, Unit is Pixel."
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:55
+msgid "Height of unit on desktop screen <= 1600"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:57
+#: shortcodes/shortcodes/common/empty_space.php:65
+#: shortcodes/shortcodes/common/empty_space.php:73
+#: shortcodes/shortcodes/common/empty_space.php:81
+msgid "Extra screen desktop"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:63
+msgid "Height of unit on desktop screen <= 1440"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:71
+msgid "Height of unit on desktop screen <= 1366"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:79
+msgid "Height of unit on desktop screen <= 1280"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:87
+msgid "Height of unit on tablet Horizontal : =< 1024px "
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:94
+msgid "Height of unit on tablet Vertical : =< 768px"
+msgstr ""
+
+#: shortcodes/shortcodes/common/empty_space.php:101
+msgid "Height of unit on mobile  : =< 667"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:42
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:60
+msgid "Use {{words}} to hightlight, {br} to break line"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:65
+msgid "Heading Tag"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:70
+msgid "H1"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:71
+msgid "H2"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:72
+msgid "H3"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:73
+msgid "H4"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:74
+msgid "H5"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:75
+msgid "H6"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:81
+msgid "Custom Font Size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:95
+msgid "Unit is em."
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:109
+msgid "300"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:110
+msgid "400"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:111
+msgid "600"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:112
+msgid "700"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:113
+msgid "800"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:114
+msgid "900"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:120
+#: shortcodes/shortcodes/other/button.php:75
+#: shortcodes/shortcodes/other/lightbox_video.php:49
+msgid "Align"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:124
+#: shortcodes/shortcodes/common/social_info.php:66
+#: shortcodes/shortcodes/other/button.php:82
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:17
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:23
+msgid "Center"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:131
+#: shortcodes/shortcodes/other/button.php:56
+msgid "Text transform"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:135
+#: shortcodes/shortcodes/common/icon_box.php:99
+#: shortcodes/shortcodes/other/button.php:61
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:64
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:136
+#: shortcodes/shortcodes/common/icon_box.php:100
+#: shortcodes/shortcodes/other/button.php:62
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:63
+msgid "Lowercase"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:142
+msgid "Has border"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:149
+msgid "Border Style"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:153
+msgid "Border 1"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:154
+msgid "Border 2"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:155
+msgid "Border 3"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:156
+msgid "Border 4"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:157
+msgid "Border 5"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:166
+#: shortcodes/shortcodes/common/icon_box.php:106
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:169
+#: shortcodes/shortcodes/common/heading.php:176
+#: shortcodes/shortcodes/common/heading.php:183
+#: shortcodes/shortcodes/common/heading.php:197
+#: shortcodes/shortcodes/common/heading.php:204
+#: shortcodes/shortcodes/common/heading.php:216
+msgid "Custom color, hightlight words"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:173
+msgid "hightligh Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:180
+#: shortcodes/shortcodes/other/icons_line.php:81
+msgid "Border Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:187
+msgid "Link to"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:194
+msgid "Link hover color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:201
+msgid "hightligh font size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:208
+msgid "hightlight style"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:212
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:213
+msgid "Italic"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:214
+msgid "oblique"
+msgstr ""
+
+#: shortcodes/shortcodes/common/heading.php:220
+msgid "Excerpt"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:40
+msgid "Icon box"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:55
+msgid "Layout"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:62
+msgid "Active"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:80
+msgid "Title link to"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:86
+msgid "Title Font Size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:94
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:60
+msgid "Text Transform"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:98
+msgid "Inherit"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:101
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:65
+msgid "Capitalize"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:113
+msgid "Link hover Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:122
+#: shortcodes/shortcodes/other/icon_line.php:60
+msgid "Icon Type"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:124
+#: shortcodes/shortcodes/common/icon_box.php:134
+#: shortcodes/shortcodes/common/icon_box.php:146
+#: shortcodes/shortcodes/common/icon_box.php:159
+#: shortcodes/shortcodes/common/icon_box.php:176
+#: shortcodes/shortcodes/common/icon_box.php:187
+#: shortcodes/shortcodes/common/icon_box.php:199
+msgid "Icon setting"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:132
+msgid "Images"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:144
+msgid "Image hover"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:173
+msgid "Icon size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:185
+#: shortcodes/shortcodes/common/icon_box.php:197
+#: shortcodes/shortcodes/other/icons_line.php:64
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/icon_box.php:209
+#: shortcodes/shortcodes/common/service_item.php:71
+#: shortcodes/shortcodes/other/testimonial.php:82
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:132
+msgid "Content"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:38
+msgid "Isotope Grid"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:58
+msgid "Layout Type"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:70
+msgid "No padding"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:77
+msgid "Number of columns"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:82
+#: shortcodes/shortcodes/common/isotope.php:100
+#: shortcodes/shortcodes/common/isotope.php:118
+#: shortcodes/shortcodes/common/isotope.php:136
+#: shortcodes/shortcodes/other/banner.php:43
+msgid "2 column"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:83
+#: shortcodes/shortcodes/common/isotope.php:101
+#: shortcodes/shortcodes/common/isotope.php:119
+#: shortcodes/shortcodes/common/isotope.php:137
+#: shortcodes/shortcodes/other/banner.php:44
+msgid "3 column"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:84
+#: shortcodes/shortcodes/common/isotope.php:102
+#: shortcodes/shortcodes/common/isotope.php:120
+#: shortcodes/shortcodes/common/isotope.php:138
+msgid "4 column"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:85
+#: shortcodes/shortcodes/common/isotope.php:103
+#: shortcodes/shortcodes/common/isotope.php:121
+#: shortcodes/shortcodes/common/isotope.php:139
+msgid "5 column"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:94
+msgid "Number of columns on Medium device >= 992px"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:99
+#: shortcodes/shortcodes/common/isotope.php:117
+#: shortcodes/shortcodes/common/isotope.php:135
+#: shortcodes/shortcodes/other/banner.php:42
+msgid "1 column"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:112
+msgid "Number of columns on Small device >= 768px"
+msgstr ""
+
+#: shortcodes/shortcodes/common/isotope.php:130
+msgid "Number of columns on Small device < 768px"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:607
+msgid "Google Map"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:621
+msgid "Zoom Level"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:622
+msgid "Between 0-20"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:628
+#: shortcodes/shortcodes/common/map.php:764
+msgid "Map Type"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:631
+msgid "Latitude & Longitude"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:632
+#: shortcodes/shortcodes/common/map.php:657
+msgid "Address"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:637
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:647
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:667
+msgid "Map Size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:670
+msgid "Fit parent"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:676
+msgid "Width"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:687
+msgid "Height"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:698
+msgid "Marker"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:706
+msgid "Marker Image"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:707
+msgid "Change default Marker."
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:717
+msgid "Show Traffic"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:725
+msgid "Draggable"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:733
+msgid "Show Info Map"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:741
+msgid "Content Info Map"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:742
+msgid "Strong, br are accepted."
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:748
+msgid "Show Control"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:756
+msgid "Scroll wheel zooming"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:767
+msgid "ROADMAP"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:768
+msgid "SATELLITE"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:769
+msgid "HYBRID"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:770
+msgid "TERRAIN"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:775
+msgid "Map style"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:779
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:780
+msgid "Blue water"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:781
+msgid "Pale Dawn"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:782
+msgid "Shades of Grey"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:788
+#: shortcodes/shortcodes/other/button.php:98
+#: shortcodes/shortcodes/other/icons_line.php:73
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:20
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/shortcodes/common/map.php:921
+msgid "Go"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:40
+msgid "Member"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:57
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:158
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:65
+msgid "Image size"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:72
+#: shortcodes/shortcodes/other/testimonial.php:53
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:163
+msgid "Name"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:80
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:168
+msgid "Position"
+msgstr ""
+
+#: shortcodes/shortcodes/common/member.php:87
+msgid "explode"
+msgstr ""
+
+#: shortcodes/shortcodes/common/page_nav.php:40
+msgid "Page Pagination"
+msgstr ""
+
+#: shortcodes/shortcodes/common/page_nav_item.php:40
+msgid "Sections"
+msgstr ""
+
+#: shortcodes/shortcodes/common/page_nav_item.php:63
+msgid "Section id"
+msgstr ""
+
+#: shortcodes/shortcodes/common/service.php:41
+msgid "Service"
+msgstr ""
+
+#: shortcodes/shortcodes/common/service.php:164
+#: shortcodes/shortcodes/common/blogs-listing/blogs_slider.php:48
+msgid "prev"
+msgstr ""
+
+#: shortcodes/shortcodes/common/service.php:165
+#: shortcodes/shortcodes/common/blogs-listing/blogs_slider.php:49
+msgid "next"
+msgstr ""
+
+#: shortcodes/shortcodes/common/service_item.php:40
+msgid "Service Item"
+msgstr ""
+
+#: shortcodes/shortcodes/common/service_item.php:64
+msgid "Image"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_item.php:40
+msgid "Slick Item"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_item.php:56
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:62
+msgid "Choose style"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:65
+#: shortcodes/shortcodes/common/slick_slider.php:166
+#: shortcodes/shortcodes/common/social_info.php:52
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:8
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:25
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:214
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:9
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:31
+msgid "Default"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:71
+msgid "Slide animation"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:74
+msgid "Ease"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:75
+msgid "Linear"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:76
+msgid "Ease-in"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:77
+msgid "Ease-out"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:78
+msgid "Ease-in-out"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:84
+msgid "Slide speed"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:86
+#: shortcodes/shortcodes/common/slick_slider.php:198
+msgid "Unit is ms"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:92
+msgid "Slide to scroll"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:94
+msgid "Default 1"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:102
+msgid "Setting this to more than 1 initializes grid mode"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:104
+#: shortcodes/shortcodes/common/slick_slider.php:112
+#: shortcodes/shortcodes/common/slick_slider.php:120
+#: shortcodes/shortcodes/common/slick_slider.php:128
+#: shortcodes/shortcodes/common/slick_slider.php:136
+msgid "Slick Display item"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:110
+msgid "Desktop items display"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:118
+msgid "Tablet horizontal items display"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:126
+msgid "Tablet vertical items display"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:134
+msgid "Mobile items display"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:144
+msgid "Display dots"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:146
+#: shortcodes/shortcodes/common/slick_slider.php:155
+#: shortcodes/shortcodes/common/slick_slider.php:164
+#: shortcodes/shortcodes/common/slick_slider.php:179
+#: shortcodes/shortcodes/common/slick_slider.php:188
+#: shortcodes/shortcodes/common/slick_slider.php:197
+#: shortcodes/shortcodes/common/slick_slider.php:211
+#: shortcodes/shortcodes/common/slick_slider.php:220
+#: shortcodes/shortcodes/common/slick_slider.php:229
+#: shortcodes/shortcodes/common/slick_slider.php:238
+msgid "Slick options"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:153
+msgid "Display arrow"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:162
+msgid "Arrow position"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:177
+msgid "Loop items"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:186
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:195
+msgid "Autoplay Speed"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:209
+msgid "Vertical slider"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:218
+msgid "Adaptive Height"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:227
+msgid "Center Mode"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:236
+msgid "Center padding"
+msgstr ""
+
+#: shortcodes/shortcodes/common/slick_slider.php:239
+msgid "Unit is px"
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:30
+msgid "Social Link"
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:61
+msgid "align"
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:67
+#: shortcodes/shortcodes/other/social_sharing.php:40
+msgid "Inline"
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:68
+msgid "fixed"
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:73
+msgid "fixed position: "
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:74
+msgid "Example: top: 30px;left: 30px;  | bottom: 30px;right: 30px; "
+msgstr ""
+
+#: shortcodes/shortcodes/common/social_info.php:92
+msgid "Icon color hover"
+msgstr ""
+
+#: shortcodes/shortcodes/other/animator.php:35
+msgid "Toolkit Animator"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:13
+msgid "Toolkit Banner"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:28
+msgid "Banner Image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:34
+msgid "URL"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:39
+msgid "For Isotope item width( base on isotope columns )"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:50
+msgid "Overlay background image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:56
+msgid "Content position"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:60
+msgid "Bottom after Image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:61
+msgid "Absolute"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:62
+msgid "Top before Image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:68
+msgid "Content align"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:72
+msgid "Top Left"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:73
+msgid "Top Right"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:74
+msgid "Center Center"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:75
+msgid "Center Left"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:76
+msgid "Center Right"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:77
+msgid "Bottom Left"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:78
+msgid "Bottom Right"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:89
+msgid "Top Offset"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:100
+msgid "Left Offset"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:111
+msgid "Bottom Offset"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:122
+msgid "Right Offset"
+msgstr ""
+
+#: shortcodes/shortcodes/other/banner.php:134
+msgid "Text content"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:13
+msgid "Toolkit Button"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:28
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:33
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:38
+msgid "Open Link in new tab?"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:50
+msgid "Font size"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:69
+msgid "Css"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:71
+msgid "Design options"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:80
+msgid "inline"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:89
+msgid "Button Text Color"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:94
+#: shortcodes/shortcodes/other/button.php:101
+#: shortcodes/shortcodes/other/button.php:111
+#: shortcodes/shortcodes/other/button.php:120
+#: shortcodes/shortcodes/other/button.php:129
+msgid "Change Color"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:106
+msgid "Button Text Hover"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:115
+#: shortcodes/shortcodes/other/icons_line.php:98
+msgid "Background Hover"
+msgstr ""
+
+#: shortcodes/shortcodes/other/button.php:124
+#: shortcodes/shortcodes/other/icons_line.php:106
+msgid "Border Hover"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:35
+msgid "Icon item"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:50
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:55
+msgid "Give it a link"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:64
+msgid "PNG Image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:65
+msgid "Icon Font"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:70
+msgid "Icon image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:71
+#: shortcodes/shortcodes/other/icon_line.php:81
+msgid "Use PNG image for best result"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:80
+msgid "Icon Hover image"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icon_line.php:107
+msgid "Custom Icon size"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:30
+msgid "Toolkit Icons Line"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:48
+msgid "Background Size"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:50
+#: shortcodes/shortcodes/other/icons_line.php:58
+msgid "Number only. Unit in px"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:56
+msgid "Icon Size"
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:69
+#: shortcodes/shortcodes/other/icons_line.php:94
+msgid "Apply to Icon Font only."
+msgstr ""
+
+#: shortcodes/shortcodes/other/icons_line.php:89
+msgid "Icon Color Hover"
+msgstr ""
+
+#: shortcodes/shortcodes/other/lightbox_video.php:42
+msgid "Toolkit Lightbox Video"
+msgstr ""
+
+#: shortcodes/shortcodes/other/lightbox_video.php:59
+msgid "Video Url"
+msgstr ""
+
+#: shortcodes/shortcodes/other/lightbox_video.php:64
+msgid "Video Thumbnail"
+msgstr ""
+
+#: shortcodes/shortcodes/other/social_sharing.php:30
+msgid "Toolkit Social"
+msgstr ""
+
+#: shortcodes/shortcodes/other/social_sharing.php:70
+msgid "Share this:"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial.php:29
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:131
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:153
+msgid "Testimonial"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial.php:60
+#: shortcodes/shortcodes/other/testimonial_item.php:51
+msgid "Job"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial.php:67
+msgid "avatar"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial.php:74
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:53
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:59
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:88
+msgid "Social"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial.php:76
+msgid "Seperate by line"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial_item.php:35
+msgid "Toolkit Testimonial Item"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial_item.php:45
+msgid "Customer Name"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial_item.php:57
+msgid "Customer Photo"
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial_item.php:58
+msgid "Use Square image for best result."
+msgstr ""
+
+#: shortcodes/shortcodes/other/testimonial_item.php:63
+msgid "Testimonial Content"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:13
+msgid "Toolkit Twitter Timeline"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:27
+msgid "OAUTH Access Token"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:32
+msgid "OAUTH Access Token Secret"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:37
+msgid "Consumer Key"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:42
+msgid "Consumer Secret"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:47
+msgid "Twitter Username"
+msgstr ""
+
+#: shortcodes/shortcodes/other/twitter_timeline.php:52
+msgid "Tweets count"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_filter.php:17
+msgid "All"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_filter.php:45
+msgid "Filter"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_3.php:11
+msgid "Prev"
+msgstr ""
+
+#: extensions/basr-portfolio/includes/portfolio_listing_part/portfolio_slider_3.php:31
+msgid "Next"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/basr-portfolio.php:9
+msgid "Portfolio Meta"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/basr-portfolio.php:14
+msgid "Portfolio Title"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:32
+msgid "Feature video"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:42
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:23
+msgid "Multiple media"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:44
+msgid ""
+"Gallery , link display order top to bottom, this purpose for insert video "
+"every position"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:49
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:30
+msgid "Gallery"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:51
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:32
+msgid "Help tip"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:69
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:79
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:188
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:47
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:57
+msgid "Add"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:71
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:49
+msgid "Link repeater"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:77
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:55
+msgid "Images & video repeater"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:89
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:64
+msgid "Hidden"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:90
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:65
+msgid "Before excerpt"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:91
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:66
+msgid "After excerpt"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:117
+msgid "Social Share"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:173
+msgid "Quote"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:178
+msgid "Social link"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:179
+msgid "End by , then enter"
+msgstr ""
+
+#: extensions/basr-portfolio/options/posts/option-portfolio.php:186
+msgid "Testimonials"
+msgstr ""
+
+#: extensions/basr-portfolio/options/taxonomies/portfolio-category.php:25
+msgid "Gallery , link display order top to bottom"
+msgstr ""
+
+#: extensions/footer-builder/options/posts/footer_builder.php:9
+msgid "Footer info"
+msgstr ""
+
+#: extensions/footer-builder/options/posts/footer_builder.php:20
+msgid "Loader Demo footer template"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/class-fw-option-type-header-builder.php:42
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:33
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:99
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:36
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:68
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:144
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:33
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:37
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:55
+msgid "Content Elements"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/extends/class-fw-option-type-header-builder-item.php:41
+msgid "Custom CSS Class"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:31
+msgid "Canvas sidebar"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:32
+msgid "Add button slide Canvas Sidebar"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:37
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:66
+msgid "Canvas Sidebar"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:64
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:73
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:130
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:67
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:99
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:175
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:64
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:68
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:86
+msgid "Label"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:65
+msgid "Canvas Sidebar Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:68
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:77
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:134
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:71
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:103
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:179
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:68
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:97
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:72
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:90
+msgid "Delete"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/canvas-sidebar/class-fw-options-type-header-builder-item-canvas-sidebar.php:69
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:78
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:135
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:72
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:104
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:180
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:69
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:98
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:73
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:91
+msgid "Duplicate"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:14
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:20
+msgid "Alignment"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:40
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:46
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:75
+msgid "Column"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:41
+msgid "Add header column"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:42
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:62
+msgid "Layout Elements"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/column/class-fw-options-type-header-builder-item-column.php:74
+msgid "Column Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:12
+msgid "Search"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:13
+msgid "Off-canvas"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:17
+msgid "Cart"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:23
+msgid "Buttons"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:27
+msgid "Button Type"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:38
+msgid "Add button"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:51
+msgid "Custom styling?"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:67
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:86
+msgid "Nav Item Color"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:72
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:91
+msgid "Nav Item Color Hover"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:97
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:103
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:132
+msgid "Header Buttons"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:98
+msgid "Add header buttons"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/header-buttons/class-fw-options-type-header-builder-item-header-buttons.php:131
+msgid "Header Buttons Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:14
+msgid "Raw HTML"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:34
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:40
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:69
+msgid "HTML"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:35
+msgid "Add header html"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/html/class-fw-options-type-header-builder-item-html.php:68
+msgid "HTML Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:16
+msgid "Logo Image"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:17
+msgid ""
+"Upload your logo here, 2x version is recommended for retina and smartphone "
+"display."
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:22
+msgid "Logo max width"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:23
+msgid "Logo max width. Ex: 200px"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:26
+msgid "Use text logo instead ?"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:40
+msgid "Logo Text"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:41
+msgid "Enter your text logo"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:66
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:72
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:101
+msgid "Logo"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:67
+msgid "Add header logo"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/logo/class-fw-options-type-header-builder-item-logo.php:100
+msgid "Logo Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:14
+msgid "Choose menu"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:30
+msgid "Navigation line height"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:31
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:15
+msgid "Number only. Unit is px"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:44
+msgid "Custom styling for this menu?"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:82
+msgid "Nav Item Typography"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:108
+msgid "Nav Sub Item Typography"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:112
+msgid "Nav Sub Item Color"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:117
+msgid "Nav Sub Item Color Hover"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:142
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:148
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:177
+msgid "Nav"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:143
+msgid "Add header nav"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/nav/class-fw-options-type-header-builder-item-nav.php:176
+msgid "Nav Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:31
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:37
+msgid "Search Box"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:32
+msgid "Add button popop up search box"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:65
+msgid "Search Box Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/search-box/class-fw-options-type-header-builder-item-search-box.php:66
+msgid "Search box"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:14
+msgid "Header height"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:25
+msgid "Background Image"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:29
+msgid "Stretch Item"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:32
+msgid "Full Width Section"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:33
+msgid "Full Width with Content"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:39
+msgid "Custom CSS"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:40
+msgid "Custom style this section and child elements only"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:60
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:66
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:93
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:95
+msgid "Section"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:61
+msgid "Add header section"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/section/class-fw-options-type-header-builder-item-section.php:94
+msgid "Section Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:14
+msgid "Location"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:35
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:41
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:70
+msgid "Sidebar"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:36
+msgid "Add header Sidebar"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/sidebar/class-fw-options-type-header-builder-item-sidebar.php:69
+msgid "Sidebar Setting"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:54
+msgid "Social Infomation"
+msgstr ""
+
+#: extensions/header-builder/includes/option-types/header-builder/items/social/class-fw-options-type-header-builder-item-social.php:87
+msgid "Social Setting"
+msgstr ""
+
+#. Description of the plugin
+msgid "Moonlight core modules and functions"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://lunartheme.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "EarthTheme"
+msgstr ""
